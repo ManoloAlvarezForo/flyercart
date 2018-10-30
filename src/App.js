@@ -1,7 +1,5 @@
 import React, { Component} from "react";
 import {hot} from "react-hot-loader";
-import '../public/favicon.ico';
-import "./App.css";
 
 class App extends Component{
   render(){
